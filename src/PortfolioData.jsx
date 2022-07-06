@@ -9,10 +9,10 @@ import proj6 from "images/Food App.PNG";
 const PortfolioData = [
   {
     id: 1,
-    title: "FYP Amazon Clone",
-    tagline: "FYP Amazon Clone with Prime Videos",
-    liveUrl: "https://fyp-amazon-clone.herokuapp.com/",
-    repositoryUrl: "https://github.com/AmeeHamz/FYP-AMAZON-CLONE-MERN-STACK",
+    title: "FYP Easyget APP",
+    tagline: "FYP Easyget App with Easyget Prime Videos",
+    liveUrl: "https://easyget-fyp.herokuapp.com/",
+    repositoryUrl: "https://github.com/AmeeHamz/Easyget-App-MERN-STACK",
     image: proj1,
   },
   {
